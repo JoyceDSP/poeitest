@@ -1,3 +1,3 @@
 - [ ] Selektione 1
 - [ ] Selektione 2
-- [ ] Selektione 3
+- [ ] Selektione 3 
